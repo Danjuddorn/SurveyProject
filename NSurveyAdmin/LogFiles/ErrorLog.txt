@@ -1,0 +1,51 @@
+********** 11-4-2018 16:30:55 **********
+Inner Exception Type: System.NullReferenceException
+Inner Exception: De objectverwijzing is niet op een exemplaar van een object ingesteld.
+Inner Source: Votations.NSurvey.WebAdmin
+Inner Stack Trace: 
+   bij Votations.NSurvey.WebAdmin.UserControls.FooterControl.Page_Load(Object sender, EventArgs e)
+   bij System.Web.UI.Control.OnLoad(EventArgs e)
+   bij System.Web.UI.Control.LoadRecursive()
+   bij System.Web.UI.Control.LoadRecursive()
+   bij System.Web.UI.Control.LoadRecursive()
+   bij System.Web.UI.Control.LoadRecursive()
+   bij System.Web.UI.Control.LoadRecursive()
+   bij System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Exception Type: System.Web.HttpUnhandledException
+Exception: Er is een uitzondering opgetreden van het type System.Web.HttpUnhandledException.
+Source: DefaultPage
+Stack Trace: 
+   bij System.Web.UI.Page.HandleError(Exception e)
+   bij System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   bij System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   bij System.Web.UI.Page.ProcessRequest()
+   bij System.Web.UI.Page.ProcessRequest(HttpContext context)
+   bij System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   bij System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   bij System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+********** 11-4-2018 16:36:45 **********
+Inner Exception Type: System.NullReferenceException
+Inner Exception: De objectverwijzing is niet op een exemplaar van een object ingesteld.
+Inner Source: Votations.NSurvey.WebAdmin
+Inner Stack Trace: 
+   bij Votations.NSurvey.WebAdmin.UserControls.FooterControl.Page_Load(Object sender, EventArgs e)
+   bij System.Web.UI.Control.OnLoad(EventArgs e)
+   bij System.Web.UI.Control.LoadRecursive()
+   bij System.Web.UI.Control.LoadRecursive()
+   bij System.Web.UI.Control.LoadRecursive()
+   bij System.Web.UI.Control.LoadRecursive()
+   bij System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Exception Type: System.Web.HttpUnhandledException
+Exception: Er is een uitzondering opgetreden van het type System.Web.HttpUnhandledException.
+Source: DefaultPage
+Stack Trace: 
+   bij System.Web.UI.Page.HandleError(Exception e)
+   bij System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   bij System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   bij System.Web.UI.Page.ProcessRequest()
+   bij System.Web.UI.Page.ProcessRequest(HttpContext context)
+   bij System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   bij System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   bij System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
